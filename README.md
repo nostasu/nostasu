@@ -29,4 +29,4 @@ Mediante la estrategia algorítmica de Divide y Vencerás y con el lenguaje de p
 
 ## Sudoku
 
-En el lenguaje Java se implementa un algoritmo que permite resolver sudokus que bien el usuario pasa por fichero de texto o por línea de comandos. Si el sudoku tiene solución posible, se le muestra al usuario por pantalla.
+En el lenguaje Java se implementa un algoritmo mediante la estrategia vuelta atrás (backtracking) que permite resolver sudokus que bien el usuario pasa por fichero de texto o por línea de comandos. Si el sudoku tiene solución posible, se le muestra al usuario por pantalla.
