@@ -1,6 +1,6 @@
 ### Bienvenido!👋
 
-- ⚡Actualmente me encuentro buscando trabajo como Full Stack Developer. En mi repositorio puedes encontrar diversos proyectos:
+- ⚡Actualmente me encuentro trabajando como Frontend Developer. En mi repositorio puedes encontrar diversos proyectos:
   - Proyectos realizados con HTML, CSS, Js, y el stack MERN.
   - Proyectos en Java utilizando estructuras de datos y estrategias algorítmicas.
 
